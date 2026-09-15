@@ -1,5 +1,5 @@
 ## Description:
-Squint Your Eyes is a mod designed for deep immersion and realistic perspective. It replaces standard zoom functionalities by simulating the natural narrowing of vision when you squint your eyes, offering a fully adjustable magnification ranging from 1.1x to 3x. Enhanced by two dark vignettes positioned at the top and bottom of the screen which become progressively more pronounced as the zoom increases.
+Squint Your Eyes is a mod designed for immersion and to mimic a realistic perspective. It replaces standard zoom functionalities by simulating the natural narrowing of vision when you squint your eyes, offering a fully adjustable magnification ranging from 1.1x to 3x. Enhanced by two dark vignettes positioned at the top and bottom of the screen which become progressively more pronounced as the zoom increases.
 
 Key features:
 
