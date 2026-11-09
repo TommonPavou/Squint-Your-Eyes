@@ -3,11 +3,13 @@ Squint Your Eyes is a mod designed for immersion and to mimic a realistic perspe
 
 Key features:
 
-- Simulates natural eye-squinting mechanics with fully adjustable zoom from 1.1x to 3x.
+- Simulates natural eye-squinting mechanics.
 
 - Features dynamic top and bottom vignettes that intensify with higher zoom levels.
 
 - Available exclusively in first-person view for maximum atmospheric fidelity.
+
+- Configurable with the given config file.
 
 Whether you are playing solo with vanilla-like mods or using a realism-based modpack, Squint Your Eyes enhances immersion without sacrificing convenience.
 
